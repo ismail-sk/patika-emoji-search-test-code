@@ -1,9 +1,11 @@
 Emoji Search
 ---
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+## What this that?
+This a Emoji Search application used for my learning test code development. 
 
-
+This a patika homework.
+[Patika.dev React course(Turkish)](https://app.patika.dev/courses/react)
 
 Install
 ---
@@ -11,8 +13,13 @@ Install
 `npm install`
 
 
-
 Usage
 ---
 
 `npm start`
+
+
+Test
+---
+
+`npm test`
